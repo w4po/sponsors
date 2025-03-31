@@ -1,6 +1,18 @@
 import {defineConfig, tierPresets} from "sponsorkit";
 import fs from 'fs/promises'
 
+// Mapping of BuyMeACoffee supporter IDs to GitHub accounts
+const buyMeACoffeeToGitHub = {
+    "9864140": {
+        username: "chbau",
+        avatarId: "64429520"
+    },
+    "10024162": {
+        username: "ramarivera",
+        avatarId: "7547875"
+    }
+};
+
 export default defineConfig({
     providers: [
         "github",
@@ -24,22 +36,25 @@ export default defineConfig({
 
                 const json = await response.json();
 
-                return json.data.map((supporter) => ({
-                    sponsor: {
-                        type: "User",
-                        support_id: supporter.support_id,
-                        login: supporter.supporter_name,
-                        name: supporter.supporter_name,
-                        // BuyMeACoffee API doesn't provide avatar URLs directly
-                        avatarUrl: supporter.support_id === 9864140 ? "https://avatars.githubusercontent.com/u/64429520" : null,
-                        // No direct profile URL provided
-                        linkUrl: supporter.support_id === 9864140 ? "https://github.com/chbau" : null,
-                    },
-                    monthlyDollars: parseFloat(supporter.support_coffee_price) * supporter.support_coffees,
-                    isOneTime: supporter.support_type === 1, // BuyMeACoffee: 1 = one-time, 2 = membership
-                    privacyLevel: supporter.support_visibility === 1 ? "PUBLIC" : "PRIVATE",
-                    createdAt: new Date(supporter.support_created_on).toISOString(),
-                }));
+                return json.data.map((supporter) => {
+                    const githubInfo = buyMeACoffeeToGitHub[supporter.support_id];
+                    
+                    return {
+                        sponsor: {
+                            type: "User",
+                            support_id: supporter.support_id,
+                            login: supporter.supporter_name,
+                            name: supporter.supporter_name,
+                            // Use GitHub info if available
+                            avatarUrl: githubInfo ? `https://avatars.githubusercontent.com/u/${githubInfo.avatarId}` : null,
+                            linkUrl: githubInfo ? `https://github.com/${githubInfo.username}` : null,
+                        },
+                        monthlyDollars: parseFloat(supporter.support_coffee_price) * supporter.support_coffees,
+                        isOneTime: supporter.support_type === 1, // BuyMeACoffee: 1 = one-time, 2 = membership
+                        privacyLevel: supporter.support_visibility === 1 ? "PUBLIC" : "PRIVATE",
+                        createdAt: new Date(supporter.support_created_on).toISOString(),
+                    };
+                });
             },
         },
     ],
