@@ -16,12 +16,20 @@ text {
 }
 </style>
 <text x="900" y="40" text-anchor="middle" class="sponsorkit-tier-title">Sponsors</text><a class="sponsorkit-link" target="_blank" id="Someone">
-  <text x="900" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Someone</text>
+  <text x="860" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Someone</text>
   
   <clipPath id="cb01388">
-    <rect x="875" y="65" width="50" height="50" rx="25" ry="25" />
+    <rect x="835" y="65" width="50" height="50" rx="25" ry="25" />
   </clipPath>
-  <image x="875" y="65" width="50" height="50" href="data:image/webp;base64,UklGRkwBAABXRUJQVlA4WAoAAAAQAAAATwAATwAAQUxQSBoAAAABF9D/iAgQSNrszR7t8VfgENH/CcAstzDGAFZQOCAMAQAAMAoAnQEqUABQAD5tMpVHJCMiISzYCACADYlpAAgWBVUweXQfdoCzizVV+fEzHOweXFfNopK5KsZDGIJwBB3SqMMcK/2Fj6qrQEIcC6EpsS0a7bZfLj1hlWyAAP73WS+dj0rXi+QzAD9bJhqQDnUBpWQe2Z1B9VUtlI3iyWu9fdNCGvUTE8qlFbdMGbnMg342zaSN0ihc4O32+bS4AtHnXaQ8GU03xFS3PxneJ9MHVep40/94Rb30EcMFMYJerjcOrvOzFYm+lH4fPToBUkIyphwqGRfeBpPYAt4hyl4RUho9ORRI4J/WMWNI43l/oW3m1WVU8RDNlCVGuAoN12d/XLqrrxeiUjBYMUAAAA==" clip-path="url(#cb01388)"/>
+  <image x="835" y="65" width="50" height="50" href="data:image/webp;base64,UklGRkwBAABXRUJQVlA4WAoAAAAQAAAATwAATwAAQUxQSBoAAAABF9D/iAgQSNrszR7t8VfgENH/CcAstzDGAFZQOCAMAQAAMAoAnQEqUABQAD5tMpVHJCMiISzYCACADYlpAAgWBVUweXQfdoCzizVV+fEzHOweXFfNopK5KsZDGIJwBB3SqMMcK/2Fj6qrQEIcC6EpsS0a7bZfLj1hlWyAAP73WS+dj0rXi+QzAD9bJhqQDnUBpWQe2Z1B9VUtlI3iyWu9fdNCGvUTE8qlFbdMGbnMg342zaSN0ihc4O32+bS4AtHnXaQ8GU03xFS3PxneJ9MHVep40/94Rb30EcMFMYJerjcOrvOzFYm+lH4fPToBUkIyphwqGRfeBpPYAt4hyl4RUho9ORRI4J/WMWNI43l/oW3m1WVU8RDNlCVGuAoN12d/XLqrrxeiUjBYMUAAAA==" clip-path="url(#cb01388)"/>
+</a>
+<a href="https://github.com/dmatrix1968" class="sponsorkit-link" target="_blank" id="dmatrix1968">
+  <text x="940" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Dirk</text>
+  
+  <clipPath id="c013731">
+    <rect x="915" y="65" width="50" height="50" rx="25" ry="25" />
+  </clipPath>
+  <image x="915" y="65" width="50" height="50" href="data:image/webp;base64,UklGRgwCAABXRUJQVlA4IAACAABwDgCdASpQAFAAPm0slEYkIjchLhF9IuANiWgAvNiFixlQ+sjJvs9xG+o7bAeYD9XvWq/zPqb/0vp/9R36IAFXzHYMwPtOe5YDrtMt/1svCxKmXXf1I06nteCMrGxjHPzGK7uV/9DluD8GaX0eUwhXrQpmMfJZ/1shJ4QAAP7+LxNAcj6wxJHwDYPuoanOB3oySxbjCOJcZXPkLz8MJaFLYaNFJc3dhgTIB+vtMf2Mc1BbzvxmomCTpRqTzQJRnuVX1oR6k4ZmBX4c+mzbPY2yk881fe6IYrQ43vZXwg1jOOwCU/Hjqy/MRSPqTIRIDMl2lTdZ8jKsWIWs7tXaUUJTkPKtwjsKagT+IXiNpH8LIG9i/MsUc7pBnW6nP0eSPRYc51tbmf1HBX1SCYqGEgE+Uptu1pYnaSInoqwsaNtydQdxwYl2knSevLpc9Rq2jsE3FaspCTzQ4bMNMrZ5GxehrYgRjRJQI/4wt3UGwUB1YXb+du9koHFEaDlMS55TAffEdP59CvBN+I0VLGFDbwHIDj8G2K6KlMnqVPjjGiK/jcgncsZ2o/qzSFPguRe6Frd/iWMvMrGIdzaLOWpJdcsZwHpHQu+pcpiQYIrPv+TfmUJ1odz6LUlPLHu4g9YIJqRhFEnep+uWimT5xA8E5Hwqpk4GE91+ARLDlPDaBdAAAA==" clip-path="url(#c013731)"/>
 </a><text x="900" y="185" text-anchor="middle" class="sponsorkit-tier-title">Backers</text><a href="https://blakenaccarato.com" class="sponsorkit-link" target="_blank" id="blakeNaccarato">
   
   <clipPath id="c7477cd">
