@@ -1,14 +1,5 @@
 [
   {
-    "name": "Dirk Mueller",
-    "login": "dmatrix1968",
-    "avatar": "https://avatars.githubusercontent.com/u/196107799?v=4",
-    "amount": 10,
-    "createdAt": "2025-05-14T09:29:32Z",
-    "link": "https://github.com/dmatrix1968",
-    "org": false
-  },
-  {
     "name": "Someone",
     "login": "Someone",
     "avatar": null,
@@ -66,6 +57,15 @@
     "amount": 1,
     "createdAt": "2025-02-12T19:18:59Z",
     "link": "https://github.com/blakeNaccarato",
+    "org": false
+  },
+  {
+    "name": "Dirk Mueller",
+    "login": "dmatrix1968",
+    "avatar": "https://avatars.githubusercontent.com/u/196107799?v=4",
+    "amount": -1,
+    "createdAt": "2025-05-14T09:29:32Z",
+    "link": "https://github.com/dmatrix1968",
     "org": false
   },
   {
