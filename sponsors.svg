@@ -18,10 +18,10 @@ text {
 <text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Sponsors</text><a class="sponsorkit-link" target="_blank" id="Someone">
   <text x="400" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Someone</text>
   
-  <clipPath id="cb01388">
+  <clipPath id="c490680">
     <rect x="375" y="65" width="50" height="50" rx="25" ry="25" />
   </clipPath>
-  <image x="375" y="65" width="50" height="50" href="data:image/webp;base64,UklGRkwBAABXRUJQVlA4WAoAAAAQAAAATwAATwAAQUxQSBoAAAABF9D/iAgQSNrszR7t8VfgENH/CcAstzDGAFZQOCAMAQAAMAoAnQEqUABQAD5tMpVHJCMiISzYCACADYlpAAgWBVUweXQfdoCzizVV+fEzHOweXFfNopK5KsZDGIJwBB3SqMMcK/2Fj6qrQEIcC6EpsS0a7bZfLj1hlWyAAP73WS+dj0rXi+QzAD9bJhqQDnUBpWQe2Z1B9VUtlI3iyWu9fdNCGvUTE8qlFbdMGbnMg342zaSN0ihc4O32+bS4AtHnXaQ8GU03xFS3PxneJ9MHVep40/94Rb30EcMFMYJerjcOrvOzFYm+lH4fPToBUkIyphwqGRfeBpPYAt4hyl4RUho9ORRI4J/WMWNI43l/oW3m1WVU8RDNlCVGuAoN12d/XLqrrxeiUjBYMUAAAA==" clip-path="url(#cb01388)"/>
+  <image x="375" y="65" width="50" height="50" href="data:image/webp;base64,UklGRlABAABXRUJQVlA4WAoAAAAQAAAATwAATwAAQUxQSBoAAAABF9D/iAgQSNrszR7t8VfgENH/CcAstzDGAFZQOCAQAQAAEAoAnQEqUABQAD5tMpVHJCMiISzYCACADYlpANVBjRcwwrz8h6ljOdHjWfjomxIVmxXrmcfzUlir0vLyE+urfxUGZDr7KuPWKzZPZB3woF890e1UOOHmgzgA/vdZLhN1aS0LIZgBBV9PyUzxvefDBZnSdIKucRMv7JStc4fAG8grZ7Q7ZE1YQ6DefSzrPRmY4aukYR83cIN8vIrMH3h1I44QoY3EF028GrquPokgStSHm0LKACQoiVUqFesmxBW4gmU8/4YE/zTFlRfBpE/LX2UsL5WS3nzzf5SG57DodLAZ4cBxd6d5ST+jENoJUbshQD9205W/zeAErp5xp0jj3zsQquTo3rMdH80ADoAAAAA=" clip-path="url(#c490680)"/>
 </a><text x="400" y="185" text-anchor="middle" class="sponsorkit-tier-title">Backers</text><a href="https://blakenaccarato.com" class="sponsorkit-link" target="_blank" id="blakeNaccarato">
   
   <clipPath id="c7477cd">
@@ -45,17 +45,17 @@ text {
 </a>
 <a class="sponsorkit-link" target="_blank" id="Dominik Świąder">
   
-  <clipPath id="c053abb">
+  <clipPath id="cd45cfd">
     <rect x="404" y="210" width="40" height="40" rx="20" ry="20" />
   </clipPath>
-  <image x="404" y="210" width="40" height="40" href="data:image/webp;base64,UklGRhgBAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSBsAAAABF9D/iAgoatuI6bjFH3QB3Cui/xOAuPBuGR0AVlA4INYAAACQBwCdASoyADIAPm00lkgkIqIhIgswgA2JaQDTaKvxhGE3auNbopz3RcIG1C2ZAgg4bQPtXUXlmbvO9LLwkv7zgvNdl0AA/vgEPbJ3pb3hr7vxw7DehWr7xeyx1jXLsqkz4JVx2BGWRzWt9HLL405nlxt4OWOSMaYlDuvLXK6W4c5OmfZfboo27YvLNbYcDBrXBpWo3mfvMCQqwUQ3oXvWra2/oiFGwtIX+xSmE8P4mV6hoStMjDa1bLRUeUU3/Qowyw66Awd4/DZUIG6Zp2FEjtOAAAAA" clip-path="url(#c053abb)"/>
+  <image x="404" y="210" width="40" height="40" href="data:image/webp;base64,UklGRhgBAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSBsAAAABF9D/iAgoatuI6bjFH3QB3Cui/xOAuPBuGR0AVlA4INYAAACwBwCdASoyADIAPm00lkgkIqIhIgswgA2JaQDUHKvxhGE3auNbopz3RcIG1C2ZAgg4bQPtXUBMXKEnlJNcdf7ZQOTTAt4AAP74BD2yd6XIDJnpNEdyfrH8N3XvHow2+VS9xG4RlgdVxkc1v4aoswOqgVstujEotH2EBDFAideTHI1DGcpWxT2Cn/+QYagKUv45MCduQcfIHDe1IyGDfMyFCBFgWZa/RF2mun5NMMSIWYR1MDNVoFDZ/m/h5zjMcD49WXG+iCad5AisNbvW66S9aN3AAAAA" clip-path="url(#cd45cfd)"/>
 </a>
 <a class="sponsorkit-link" target="_blank" id="Someone">
   
-  <clipPath id="c053abb">
+  <clipPath id="cd45cfd">
     <rect x="452" y="210" width="40" height="40" rx="20" ry="20" />
   </clipPath>
-  <image x="452" y="210" width="40" height="40" href="data:image/webp;base64,UklGRhgBAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSBsAAAABF9D/iAgoatuI6bjFH3QB3Cui/xOAuPBuGR0AVlA4INYAAACQBwCdASoyADIAPm00lkgkIqIhIgswgA2JaQDTaKvxhGE3auNbopz3RcIG1C2ZAgg4bQPtXUXlmbvO9LLwkv7zgvNdl0AA/vgEPbJ3pb3hr7vxw7DehWr7xeyx1jXLsqkz4JVx2BGWRzWt9HLL405nlxt4OWOSMaYlDuvLXK6W4c5OmfZfboo27YvLNbYcDBrXBpWo3mfvMCQqwUQ3oXvWra2/oiFGwtIX+xSmE8P4mV6hoStMjDa1bLRUeUU3/Qowyw66Awd4/DZUIG6Zp2FEjtOAAAAA" clip-path="url(#c053abb)"/>
+  <image x="452" y="210" width="40" height="40" href="data:image/webp;base64,UklGRhgBAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSBsAAAABF9D/iAgoatuI6bjFH3QB3Cui/xOAuPBuGR0AVlA4INYAAACwBwCdASoyADIAPm00lkgkIqIhIgswgA2JaQDUHKvxhGE3auNbopz3RcIG1C2ZAgg4bQPtXUBMXKEnlJNcdf7ZQOTTAt4AAP74BD2yd6XIDJnpNEdyfrH8N3XvHow2+VS9xG4RlgdVxkc1v4aoswOqgVstujEotH2EBDFAideTHI1DGcpWxT2Cn/+QYagKUv45MCduQcfIHDe1IyGDfMyFCBFgWZa/RF2mun5NMMSIWYR1MDNVoFDZ/m/h5zjMcD49WXG+iCad5AisNbvW66S9aN3AAAAA" clip-path="url(#cd45cfd)"/>
 </a>
 <a href="https://github.com/spicymanp" class="sponsorkit-link" target="_blank" id="spicymanp">
   
