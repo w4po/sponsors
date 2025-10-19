@@ -16,11 +16,19 @@ text {
 }
 </style>
 <text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Sponsors</text><a class="sponsorkit-link" target="_blank" id="Someone">
-  <text x="400" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Someone</text>
+  <text x="360" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Someone</text>
   
   <clipPath id="c490680">
-    <rect x="375" y="65" width="50" height="50" rx="25" ry="25" />
+    <rect x="335" y="65" width="50" height="50" rx="25" ry="25" />
   </clipPath>
-  <image x="375" y="65" width="50" height="50" href="data:image/webp;base64,UklGRlABAABXRUJQVlA4WAoAAAAQAAAATwAATwAAQUxQSBoAAAABF9D/iAgQSNrszR7t8VfgENH/CcAstzDGAFZQOCAQAQAAEAoAnQEqUABQAD5tMpVHJCMiISzYCACADYlpANVBjRcwwrz8h6ljOdHjWfjomxIVmxXrmcfzUlir0vLyE+urfxUGZDr7KuPWKzZPZB3woF890e1UOOHmgzgA/vdZLhN1aS0LIZgBBV9PyUzxvefDBZnSdIKucRMv7JStc4fAG8grZ7Q7ZE1YQ6DefSzrPRmY4aukYR83cIN8vIrMH3h1I44QoY3EF028GrquPokgStSHm0LKACQoiVUqFesmxBW4gmU8/4YE/zTFlRfBpE/LX2UsL5WS3nzzf5SG57DodLAZ4cBxd6d5ST+jENoJUbshQD9205W/zeAErp5xp0jj3zsQquTo3rMdH80ADoAAAAA=" clip-path="url(#c490680)"/>
+  <image x="335" y="65" width="50" height="50" href="data:image/webp;base64,UklGRlABAABXRUJQVlA4WAoAAAAQAAAATwAATwAAQUxQSBoAAAABF9D/iAgQSNrszR7t8VfgENH/CcAstzDGAFZQOCAQAQAAEAoAnQEqUABQAD5tMpVHJCMiISzYCACADYlpANVBjRcwwrz8h6ljOdHjWfjomxIVmxXrmcfzUlir0vLyE+urfxUGZDr7KuPWKzZPZB3woF890e1UOOHmgzgA/vdZLhN1aS0LIZgBBV9PyUzxvefDBZnSdIKucRMv7JStc4fAG8grZ7Q7ZE1YQ6DefSzrPRmY4aukYR83cIN8vIrMH3h1I44QoY3EF028GrquPokgStSHm0LKACQoiVUqFesmxBW4gmU8/4YE/zTFlRfBpE/LX2UsL5WS3nzzf5SG57DodLAZ4cBxd6d5ST+jENoJUbshQD9205W/zeAErp5xp0jj3zsQquTo3rMdH80ADoAAAAA=" clip-path="url(#c490680)"/>
+</a>
+<a class="sponsorkit-link" target="_blank" id="papa">
+  <text x="440" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">papa</text>
+  
+  <clipPath id="c490680">
+    <rect x="415" y="65" width="50" height="50" rx="25" ry="25" />
+  </clipPath>
+  <image x="415" y="65" width="50" height="50" href="data:image/webp;base64,UklGRlABAABXRUJQVlA4WAoAAAAQAAAATwAATwAAQUxQSBoAAAABF9D/iAgQSNrszR7t8VfgENH/CcAstzDGAFZQOCAQAQAAEAoAnQEqUABQAD5tMpVHJCMiISzYCACADYlpANVBjRcwwrz8h6ljOdHjWfjomxIVmxXrmcfzUlir0vLyE+urfxUGZDr7KuPWKzZPZB3woF890e1UOOHmgzgA/vdZLhN1aS0LIZgBBV9PyUzxvefDBZnSdIKucRMv7JStc4fAG8grZ7Q7ZE1YQ6DefSzrPRmY4aukYR83cIN8vIrMH3h1I44QoY3EF028GrquPokgStSHm0LKACQoiVUqFesmxBW4gmU8/4YE/zTFlRfBpE/LX2UsL5WS3nzzf5SG57DodLAZ4cBxd6d5ST+jENoJUbshQD9205W/zeAErp5xp0jj3zsQquTo3rMdH80ADoAAAAA=" clip-path="url(#c490680)"/>
 </a>
 </svg>

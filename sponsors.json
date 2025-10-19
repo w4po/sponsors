@@ -1,5 +1,13 @@
 [
   {
+    "name": "papa",
+    "login": "papa",
+    "avatar": null,
+    "amount": 10,
+    "createdAt": "2025-10-18T07:28:17.000Z",
+    "org": false
+  },
+  {
     "name": "Someone",
     "login": "Someone",
     "avatar": null,
@@ -30,15 +38,6 @@
     "amount": 5,
     "createdAt": "2025-03-30T16:44:02.000Z",
     "link": "https://github.com/ramarivera",
-    "org": false
-  },
-  {
-    "name": "Chris",
-    "login": "Chris",
-    "avatar": "https://avatars.githubusercontent.com/u/64429520",
-    "amount": 5,
-    "createdAt": "2025-03-14T20:32:51.000Z",
-    "link": "https://github.com/chbau",
     "org": false
   },
   {
